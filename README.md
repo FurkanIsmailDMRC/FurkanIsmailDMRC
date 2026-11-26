@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=FurkanIsmailDMRC&label=Profile%20views&color=0e75b6&style=flat" alt="FurkanIsmailDMRC" />
 </p>
 
-- 🔭 I’m currently working on **My Personal Portfolio & Indie Game Concepts (Function Studios)**
+- 🔭 I’m currently working on **My Personal Portfolio & My Own Fantasy World**
 - 🌱 I’m currently studying **Computer Engineering at Yalova University**
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://github.com/FurkanIsmailDMRC/Portfolio)** *(buraya Netlify linkini yapıştırabilirsin)*
 - 🌍 Experiences: **Erasmus+ Software Internship (TotalSoft, Romania)** • **TEKNOFEST U.U.S. Finalist** • **Logo Yazılım Junior Intern**
