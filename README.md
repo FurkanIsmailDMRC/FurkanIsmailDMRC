@@ -51,6 +51,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,react,nodejs,graphql,python,cpp,arduino,flutter,dart,git,github,vscode,visualstudio,androidstudio,blender,figma,photoshop,krita,obsidian" />
   <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" height="48" alt="MS SQL Server" />
+  <img src="https://img.icons8.com/color/48/sql.png" width="48" height="48" alt="SQL / SSMS" />
 </p>
 ---
 
