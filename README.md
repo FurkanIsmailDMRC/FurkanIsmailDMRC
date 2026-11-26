@@ -51,9 +51,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,microsoftdotnet,react,node,graphql,playwright,python,cpp,arduino,flutter,dart,git,github,vscode,vs,blender,figma,photoshop,krita,obsidian" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,python,cpp,arduino,flutter,dart,git,github,vscode,pycharm,androidstudio,netlify,blender" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
 </p>
 ---
 
