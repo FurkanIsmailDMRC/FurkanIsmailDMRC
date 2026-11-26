@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,cs,dotnet,react,nodejs,graphql,playwright,python,cpp,arduino,flutter,dart,git,github,vscode,visualstudio,androidstudio,mssql,powerbi,blender,figma,photoshop,krita,obsidian" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,cs,dotnet,react,nodejs,graphql,playwright,python,cpp,arduino,flutter,dart,git,github,vscode,visualstudio,androidstudio,microsoftsqlserver,microsoftpowerbi,blender,figma,photoshop,obsidian" />
+  <img src="https://skillicons.dev/icons?i=krita" />
 </p>
 ---
 
