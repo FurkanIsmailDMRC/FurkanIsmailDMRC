@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,python,cpp,arduino,flutter,dart,git,github,vscode,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,python,cpp,arduino,flutter,dart,git,github,vscode,blender,obsidian,powerbi" />
 </p>
 
 ---
