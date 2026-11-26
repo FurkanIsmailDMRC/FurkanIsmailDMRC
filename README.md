@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **My Personal Portfolio & My Own Fantasy World**
 - 🌱 I’m currently studying **Computer Engineering at Yalova University**
-- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://github.com/FurkanIsmailDMRC/Portfolio)** *(buraya Netlify linkini yapıştırabilirsin)*
+- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://furkansportfolio.netlify.app/)**
 - 🌍 Experiences: **Erasmus+ Software Internship (TotalSoft, Romania)** • **TEKNOFEST U.U.S. Finalist** • **Logo Yazılım Junior Intern**
 - 💬 Ask me about **C#, Python, Web Development (HTML/CSS/JS/Bootstrap), Arduino & 3D Modeling**
 - 📫 How to reach me: **furkanismaildemirci@gmail.com**
-- ⚡ Fun fact: **I build dark fantasy worldbuilding lore (Tales of Cleavon) and play the bağlama**
+- ⚡ Fun fact: **I'm developing dark fantasy worldbuilding lore (Tales of Cleavon)**
 
 ---
 
