@@ -48,11 +48,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,microsoftdotnet,react,node,graphql,playwright,python,cpp,arduino,flutter,dart,git,github,vscode,vs,blender,figma,photoshop,krita,obsidian" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,python,cpp,arduino,flutter,dart,git,github,vscode,pycharm,androidstudio,netlify,blender" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,react,node,graphql,playwright,python,cpp,arduino,flutter,dart,git,github,vscode,Visualstudio,androidstudio,blender,figma,photoshop,krita,obsidian" />
 </p>
 ---
 
